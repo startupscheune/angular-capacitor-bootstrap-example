@@ -1,3 +1,2 @@
 # angular-capacitor-bootstrap-example
 
-
