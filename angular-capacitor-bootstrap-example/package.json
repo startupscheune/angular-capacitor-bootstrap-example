@@ -21,6 +21,7 @@
     "@capacitor/android": "^5.0.5",
     "@capacitor/angular": "^2.0.3",
     "@capacitor/core": "latest",
+    "@capacitor/geolocation": "^5.0.4",
     "bootstrap": "^4.6.2",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
