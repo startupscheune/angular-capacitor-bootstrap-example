@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-capacitor-bootstrap-example';
+
+  onButtonClick() 
+  {
+    console.log('DEBUG onButtonClick');
+  }
 }
