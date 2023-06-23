@@ -23,6 +23,7 @@
     "@capacitor/camera": "^5.0.4",
     "@capacitor/core": "latest",
     "@capacitor/geolocation": "^5.0.4",
+    "@ionic/pwa-elements": "^3.1.1",
     "bootstrap": "^4.6.2",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",

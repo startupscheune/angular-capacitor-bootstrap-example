@@ -47,8 +47,8 @@ Capacitor API examples
   - `npm install @capacitor/camera`
   - PWA support `npm install @ionic/pwa-elements`
   - add to main.ts like https://capacitorjs.com/docs/web/pwa-elements
-    - `import { defineCustomElements } from '@ionic/pwa-elements/loader';`
-    - `defineCustomElements(window);`
+    - At the beginning `import { defineCustomElements } from '@ionic/pwa-elements/loader';`
+    - At the end `defineCustomElements(window);`
 
 ## Libraries
 

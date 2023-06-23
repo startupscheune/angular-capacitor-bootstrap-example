@@ -1,11 +1,14 @@
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-md-12">
-      <p>Geolocation</p>
-      <p>Longitude</p>
-      <p>Latitude</p>
-		</div>
-	</div>
-</div>
+<p>Latitude: {{latitude}}</p>
+<p>Longitude: {{longitude}}</p>
+
+<button (click)="onGeodata()">Get Geodata</button>
+
+<button (click)="takePicture()">Take Photo</button>
+
+<br/>
+
+<img [src]="imageToShow" width="300px" alt="Hier sollte dein Bild sein">
+
+<router-outlet></router-outlet>
 
 <router-outlet></router-outlet>
