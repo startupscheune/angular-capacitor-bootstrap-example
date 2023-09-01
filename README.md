@@ -59,7 +59,7 @@ Bootstrap 4
 - add to angular.json to architect.build
 ```
   "styles": [
-     "styles.css".
+     "styles.css",
      "../node_modules/bootstrap/dist/css/bootstrap.min.css"
   ],
   "scripts": [
